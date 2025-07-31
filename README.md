@@ -13,27 +13,5 @@ Hyperparameter Tuning: Optimized the regularization parameter C to enhance model
 
 Evaluation Metrics: Accuracy, precision, recall, F1-score, and log loss used to assess the model’s performance.<br><br>
 
-Installation<br><br>
-Clone the repository:<br><br>
-
-bash<br><br>
-Copy<br><br>
-Edit<br><br>
-git clone https://github.com/yourusername/TF-IDF-Sentiment-Classifier.git<br><br>
-Install dependencies:<br><br>
-
-bash<br><br>
-Copy<br><br>
-Edit<br><br>
-pip install -r requirements.txt<br><br>
-Usage<br><br>
-Preprocess the dataset.<br><br>
-
-Train the model using logistic regression.<br><br>
-
-Tune hyperparameters for optimal results.<br><br>
-
-Visualize performance metrics.<br><br>
-
 Results<br><br>
 After applying the model, various metrics were calculated to assess its performance, with hyperparameter tuning improving results.<br><br>
