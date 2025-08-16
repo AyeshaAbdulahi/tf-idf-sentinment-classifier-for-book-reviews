@@ -1,4 +1,4 @@
-# TF-IDF-SENTIMENT-CLASSIFIER-FOR-BOOK-REVIEWS
+# BOOK REVIEWS CLASSIFIER
 
 <p> 
 This project implements a sentiment analysis model using TF-IDF vectorization to classify book reviews as positive or negative. The goal is to gain insights into customer sentiment based on review data. The model uses logistic regression for classification and evaluates performance through metrics such as accuracy, F1-score, precision, recall, and log loss.
